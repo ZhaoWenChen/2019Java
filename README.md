@@ -14,3 +14,14 @@ framework 使用上的條件限制
 	- 實作
 
 Thinking in Java 4th
+
+20190305
+
+the difference of List and Set
+索引值(index)	 Y	 N
+順序		  Y	  N
+可重複		 Y	 N
+
+父類別的資料可以放子類別的參照
+EX. List<Integer> name = new ArrayList<Integer>();
+
